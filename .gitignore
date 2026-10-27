@@ -1,4 +1,4 @@
 *.pdf
 *.o
 *.a
-test
+tests/bin/
